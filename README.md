@@ -1,1 +1,2 @@
 # JavaSamples
+text sample
